@@ -1,4 +1,4 @@
-Este é um curso para relembrar todos os conteudos aprendidos anteriormente sobre a linguagem Java
+Este é um curso para relembrar todos os conteudos aprendidos anteriormente sobre a linguagem Java.
 Aqui você ira ver conteudos simples, partindo do basico até a conclusão to curso.
 
 *Importante - 
